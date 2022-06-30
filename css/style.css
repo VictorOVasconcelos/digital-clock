@@ -1,2 +1,21 @@
 @charset "UTF-8";
 
+:root {
+    --One: #292929;
+    --Two: #212121;
+    --Thr: #C8C8C8;
+    --Fou: #F2F2F2;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--Two);
+
+    color: var(--Fou);
+    font-family: Arial, Helvetica, sans-serif;
+}
