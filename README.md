@@ -39,7 +39,7 @@
 
 ## Deploy da Aplicação
 
-> Link:
+> Link: https://victorovasconcelos.github.io/digital-clock/
 
 ## Tecnologias Usadas
 
